@@ -8,19 +8,19 @@
 
 # BrandFullNameInternal is used for some registry and file system values
 # instead of BrandFullName and typically should not be modified.
-!define BrandFullNameInternal "Waterfox"
-!define BrandFullName         "Waterfox"
-!define BrandShortName        "Waterfox"
-!define CompanyName           "Waterfox Ltd."
-!define URLInfoAbout          "https://www.waterfox.net"
-!define URLUpdateInfo         "https://www.waterfox.net/blog/waterfox-${AppVersion}/"
-!define HelpLink              "https://support.waterfox.net"
+!define BrandFullNameInternal "WD40"
+!define BrandFullName         "WD40"
+!define BrandShortName        "WD40"
+!define CompanyName           "WD40 Ltd."
+!define URLInfoAbout          "https://www.firefox.net"
+!define URLUpdateInfo         "https://www.firefox.net/update"
+!define HelpLink              "https://support.firefox.net"
 
 !define URLStubDownloadX86 ""
 !define URLStubDownloadAMD64 ""
 !define URLStubDownloadAArch64 ""
-!define URLManualDownload "https://www.waterfox.net/download/"
-!define URLSystemRequirements "https://www.waterfox.net/download/"
+!define URLManualDownload "https://www.firefox.net/download/"
+!define URLSystemRequirements "https://www.firefox.net/download/"
 !define Channel "aurora"
 
 # The installer's certificate name and issuer expected by the stub installer
